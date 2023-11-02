@@ -5,3 +5,5 @@ export default function Home() {
     </div>
   )
 }
+
+// TODO: setup husky
